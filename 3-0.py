@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# This program looks at whether MLB players have been historically more successful by swinging or taking when up in the count 3-0 based on wOBA
 
 import sys
 import numpy as np
